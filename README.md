@@ -6,8 +6,11 @@
  <br>
  <br>
  - ![HTML-239120_style=for-the-badge logo=html5 logoColor=white](https://github.com/135791maria/135791maria/assets/129632457/164f41a1-17f3-4ef2-b2c0-0f1f3b381d8e)
- - 
-<br>
+ -  ![CSS-239120_style=for-the-badge logo=css3 logoColor=white](https://github.com/135791maria/135791maria/assets/129632457/975c1668-23e7-4771-8dec-065e7123a148)
+-  ![JavaScript-F7DF1E_style=for-the-badge logo=javascript logoColor=black](https://github.com/135791maria/135791maria/assets/129632457/f5e133ce-ef1a-4682-8ca1-e7d46929b808)
+
+
+
 
 
 
