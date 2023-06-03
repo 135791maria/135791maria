@@ -1,16 +1,24 @@
 ### Hi there 👋
 
-<!--
-**135791maria/135791maria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+ Olá, eu sou maria da penha, desenvolvedora front end.
+ Atualmente estou criando projeto com:
+ <br>
+ <br>
+ - ![HTML-239120_style=for-the-badge logo=html5 logoColor=white](https://github.com/135791maria/135791maria/assets/129632457/164f41a1-17f3-4ef2-b2c0-0f1f3b381d8e)
+ - 
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+[![maria stats](https://github-readme-stats.vercel.app/api?username=135791maria)](https://github.com/anuraghazra/github-readme-stats)
+
+<br>!
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=135791maria)](https://github.com/anuraghazra/github-readme-stats)
